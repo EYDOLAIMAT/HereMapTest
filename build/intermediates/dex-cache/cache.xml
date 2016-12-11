@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_c4ec9cd4124d481255052edd2d266e660d067aad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_bda82c39407c7d79f8537df0655ac3a2dcf0ca8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_20d958e124095db8c787d3a4d33ad37bc7c335b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_577159e82876fe1fa0f7639f2431fdd72b34f536\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_bef2e3903304053f1bdebc0131806e0b4460bfa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_fdba0ce99de18ebe7be5f3178d82c4ede652cd14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_011e247469e48f2dfa9443e355cb6672c1adaf9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_02bcc0415424222595910516a200ee04c5d9f80e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_fb67dba271da9bb08e0b265a3b4dcceaa0c06a79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_02a5cc4f07f71a76d6e1447898319ac2ad09c874\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_bf6c62114ee7b3cebd562535455385db7393a1a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_f0b640e024ac37e54c1c0980e009bc018cadbe18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\libs\HERE-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7470d0deb468b65758f626f3621e613cc176ca3">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\2\HERE-sdk_2105c26b701415f71e3676f1e8dee229d7eb3fb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_b7758f2fcbff2f8649036ac1a4381773628edbe6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_336c532a09c5145e19732acf45cd2e817eec7c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9eb30479096b4bed387d9bdb9e46f90f76f23b0c">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2c1ffb4975361b12877f33dec2f77637b6d38a32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_97ee607f60deb683c6c4f03e40011665b037c7cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d40b0d4cdb8e4cebdb6344d3825b2f21ea15fca9">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7bc6624aa48ab05cbadc031d4524f8e137f39c08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Gistec\Downloads\New folder\FirstHereApp10\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_99f4697fd8086710025069422b3ec7175b71cd93\classes.dex" />
+    </item>
+
+</items>
